@@ -1,2 +1,2 @@
 # ts_pratice
-TS学习
+TS练习
